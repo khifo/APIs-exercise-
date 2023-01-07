@@ -1,0 +1,7 @@
+Part 1 
+1. https://swapi.dev/api/people/4/
+2. https://swapi.dev/api/planets/2/
+3.
+4.
+5.
+6. 
