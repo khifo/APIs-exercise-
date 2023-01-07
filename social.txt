@@ -12,5 +12,15 @@ Part 2 Social Mountain
 {
   "text": "red"
 }
+I made my first post with "green" and then "red". I was messing with it. A post with my name would have "Kiu" instead of "red". 
+6. https://practiceapi.devmountain.com/api/posts?id=1465
+{
+  "text": "yellow"
+}
 
-6. 
+7. https://practiceapi.devmountain.com/api/posts/filter?text=blue
+
+8. text/html; charset=utf-8
+
+9. The requested file has is an older version of the one on the server
+
