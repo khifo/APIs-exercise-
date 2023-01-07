@@ -4,4 +4,13 @@ Part 2 Social Mountain
 
 2. Strings
 
-3.
+3.https://practiceapi.devmountain.com/api/posts?id=555
+
+4. 404, 409
+
+5. https://practiceapi.devmountain.com/api/posts
+{
+  "text": "red"
+}
+
+6. 
